@@ -15,7 +15,7 @@
         <?php include "header.php" ?>
     </header>
     <main>
-        <?php include "main.php"?>
+        <?php include $content ?>
     </main>
     <footer>
         <?php include "footer.php"?>
