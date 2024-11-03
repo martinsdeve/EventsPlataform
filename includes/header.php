@@ -4,5 +4,5 @@
         <input type="text" placeholder="Procurar eventos..." >
         <button id="search"><i class="fa-solid fa-magnifying-glass"></i> search</button>
     </nav>
-    <button>login</button>
+    <button>Registrar</button>
 </div>
